@@ -1,0 +1,47 @@
+*{
+box-sizing: border-box;
+}
+body{
+    background-color: rgb(245 208 76);
+    width: 100%;
+    height: 100%;
+    margin: 5rem auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-family: "poppins",sans-serif;
+}
+.container{
+    width: 30%;
+    height: auto;
+    background-color: #fff;
+    border-radius: 15px;
+    box-shadow: rgb(11 8 5);
+    padding: 1rem 0.5rem 1rem 0.5rem;
+}
+.details{
+    opacity: 0.4;
+}
+main-img{
+    width: 100%;
+    height: 14rem;
+    
+}
+.learning{
+    width: 4rem;
+    height: 1.5rem;
+    border-radius: 4px;
+    background-color: rgb(245 208 76);
+    padding: ;
+}
+.author-details{
+    display: inline;
+}
+.author-img{
+    border-radius: 50%;
+}
+.color-img{
+    width: 100%;
+    padding: 0.5rem;
+}
+    }
